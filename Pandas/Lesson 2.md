@@ -16,4 +16,4 @@ The dataset we're going to use is one containing Pokemons. Before we begin with 
 
 Project Link: https://www.datawars.io/data-science-project/practicing-filtering-sorting-with-pokemon
 
-Completed Project: 
+Completed Project: https://beta.datawars.io/project/54b07e96-f0da-4b5d-ba40-c87475e42b8e?page=1
